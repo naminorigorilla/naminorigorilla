@@ -18,6 +18,7 @@
 * 2022年 4月～ 先端IT特化型就労移行支援事業所　NeuroDive福岡に入所
 * 2022年 9月～2023年2月 経済産業省デジタル推進人材育成プログラム
 「マナビDX Quest（デラックス・クエスト）」に参加。Silver修了証取得。
+https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/VHVQT0REQTY0OXk4THdvaGVRZ3pOZz09
 
 ## 制作物
 いずれも就労移行支援事業所に入所後に作成しました。
